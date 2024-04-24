@@ -1,0 +1,112 @@
+.search {
+    width:950px;
+    border-radius:5px;
+    padding:5px;
+}
+
+.but1{
+    color:white;
+    background-color: rgb(3, 19, 3);
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+.cat {
+    margin-top: 10px;
+}
+/* 
+.buttons {
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 3px;
+} */
+
+.but2{
+    background-color: rgb(179, 171, 171);
+    border-radius: 15px;
+    width: 100px;
+    border: none;
+}
+
+.but3{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+    
+}
+
+.but4{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+}
+
+.but5{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+}
+.but6{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+}
+.but7{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+}
+
+.but8{
+    background-color: rgb(179, 171, 171);;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+}
+
+.mycart {
+    background-color:rgb(3, 19, 3); 
+    color:white;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.mycart:hover{
+
+    background-color: gray;
+    color: black;
+}
+
+.activee{
+    background-color: #777;
+    color: white;
+}
+
+.mydetails {
+    background-color:rgb(3, 19, 3); 
+    color:white;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+
+.mydetails:hover{
+    background-color: gray;
+    color: black;
+}
+
+

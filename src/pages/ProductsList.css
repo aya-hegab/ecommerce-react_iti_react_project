@@ -1,0 +1,55 @@
+/* products.css */
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.pagination {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pagination-item {
+  margin: 0 5px;
+}
+
+.pagination-link {
+  display: block;
+  padding: 10px;
+  color: #333;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.pagination-link:hover {
+  background-color: #f0f0f0;
+}
+
+.pagination-link.active {
+  background-color: #3498db;
+  color: #fff;
+}
+.s
+tock {
+
+width: 90px;
+  background-color: green;
+  color: white !important;
+  border-radius: 10px;
+
+  border: none;
+  margin-bottom: 10px;
+}
+
+.mycard{
+
+  box-shadow: 5px 5px 5px gray;
+}
